@@ -1,1 +1,2 @@
 # Amazon_clone
+This project is a fully functional Amazon Clone built using HTML, CSS, and JavaScript. It replicates the core design and functionality of the Amazon shopping website, including product listings, cart management, dynamic price updates, and responsive UI. The project demonstrates the use of DOM manipulation, local storage, event handling, and modular JavaScript structure to create a seamless e-commerce experience.
